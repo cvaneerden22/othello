@@ -1,7 +1,7 @@
 //***************************************************
 // Filename: othello.c
 //
-// Author(s): 
+// Author(s): Chase Johnston, Christian Van Eerden
 //***************************************************
 
 #include "othello.h"
